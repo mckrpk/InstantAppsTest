@@ -1,0 +1,1 @@
+include ':feature1Module', ':app', ':base', ':instantapp'
